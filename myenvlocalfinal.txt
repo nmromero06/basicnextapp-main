@@ -1,0 +1,20 @@
+#-------- Local host connection ---------
+DB_HOST=aws-1-ap-southeast-2.pooler.supabase.com
+DB_PORT=5432
+DB_USER=postgres.xxhteusvcbgbdcizxgbx
+DB_PASSWORD=M8zrmr012006!
+DB_NAME=postgres
+
+# Better Auth
+BETTER_AUTH_SECRET=NzhkM2Y5ZTJmYjYwM2M0YmU4YjA1ODcyM2M1YjY5NDA3ZDAyM2M1ZTg5M2Y0YjU2YmU4YjA1ODcyM2M1YjY5NDA3ZDAyM2M1ZTg5M2Y0YjU2
+
+#-----localhost
+BETTER_AUTH_URL=http://localhost:3000
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+
+#---vercel-----
+#BETTER_AUTH_URL=https://basicnextapp.vercel.app
+#NEXT_PUBLIC_APP=https://basicnextapp.vercel.app
+
+# Session
+SESSION_TIMEOUT_VALUE=2 hours
